@@ -50,6 +50,8 @@ Experience wea]()ther information through an intuitive and visually appealing in
 
 ## 📱 Screenshots :
 
-<img src="./ui/image1.png" width="150" alt="Weather App Screenshot"> <img src="./ui/image2.png" width="150" alt="Weather App Screenshot"> <img src="./ui/image3.png" width="150" alt="Weather App Screenshot"> <img src="./ui/image4.png" width="150" alt="Weather App Screenshot">
+<img src="./ui/image1.png" width="300" alt="Weather App Screenshot">&nbsp;&nbsp; <img src="./ui/image2.png" width="300" alt="Weather App Screenshot">
+
+<img src="./ui/image3.png" width="300" alt="Weather App Screenshot">&nbsp;&nbsp; <img src="./ui/image4.png" width="300" alt="Weather App Screenshot">
 
 
