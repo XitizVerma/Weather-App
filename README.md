@@ -47,3 +47,11 @@ Plan ahead with comprehensive 7-day weather forecasts. Get detailed daily predic
 Track weather conditions for multiple cities simultaneously. Add your favorite locations and easily switch between them to stay informed about weather conditions in different places.
 ### ❤️ Beautiful, Easy-to-Use Interface
 Experience wea]()ther information through an intuitive and visually appealing interface. The app features a clean design with smooth animations and user-friendly navigation that makes checking the weather a pleasant experience.
+
+## 📱 Screenshots :
+
+![image](./ui/image1.png)
+![image](./ui/image2.png)
+![image](./ui/image3.png)
+![image](./ui/image4.png)
+
